@@ -1,5 +1,5 @@
-# jackelly23.gethub.io
-**Jack Kelly's Website**
+
+# **Jack Kelly's Website**
 
 **About Me**
 
