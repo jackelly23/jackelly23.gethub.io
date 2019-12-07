@@ -10,7 +10,7 @@
 **Topics on this Website**
 
 * [*Interests*](https://github.com/jackelly23/Jackelly23.gethub.io-interests.git)
-* Favorite Animals
+* [Favorite Animals](https://github.com/jackelly23/jackelly23.gethub.io-animals.git)
 * Favorite things to do in Colorado
 * Favorite things to do in Missouri
 * My Goals
